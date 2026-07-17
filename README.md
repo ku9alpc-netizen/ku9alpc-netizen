@@ -30,16 +30,4 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ku9alpc-netizen/ku9alpc-netizen/main/github-metrics.svg" alt="GitHub metrics" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ku9alpc-netizen&theme=tokyonight&hide_border=false" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ku9alpc-netizen&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</p>
