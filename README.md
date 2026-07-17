@@ -2,8 +2,18 @@
 <h3 align="center">Full-stack developer (MERN) | Java enthusiast</h3>
 
 <p align="center">
+  🟢 <b>Open to internships</b> &nbsp;|&nbsp; 🌐 <a href="https://your-portfolio-link-here.com">Portfolio</a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ku9alpc-netizen&label=Profile%20Views&color=6DA55F&style=flat" alt="Profile views" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ku9alpc-netizen/ku9alpc-netizen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ku9alpc-netizen/ku9alpc-netizen/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ku9alpc-netizen/ku9alpc-netizen/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mrkunal13)
