@@ -33,8 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ku9alpc-netizen&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ku9alpc-netizen&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/ku9alpc-netizen/ku9alpc-netizen/main/github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center">
