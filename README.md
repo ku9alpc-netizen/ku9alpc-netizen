@@ -9,13 +9,5 @@
 ![](https://streak-stats.demolab.com/?user=ku9alpc-netizen&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ku9alpc-netizen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ku9alpc-netizen&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=ku9alpc-netizen&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
